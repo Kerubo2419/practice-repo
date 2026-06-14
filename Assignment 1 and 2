@@ -12,7 +12,7 @@ The model had better accuracy and more consistent predictions.
 
 ## Model 3
 Epochs: 50  
-Batch Size: 32  
+Batch Size: 16
 The model trained faster but was slightly less accurate.
 
 ## What I Learned
