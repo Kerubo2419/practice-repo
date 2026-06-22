@@ -56,7 +56,7 @@ PARISTAKINF SMS - Freebet Alert
 Subject: FREEBET ALERT!  
 Sender: PARISTAKINF  
 Date: Mon, 18 May at 12:59 / Thu, 21 May / Thu, 28 May  
-Screenshot Link: Paristakinf.png  
+Screenshot Link:  ![Spam 5](IMG_2686.jpeg)
 Severity Rating: High  
 Reason for Rating: Uses “Congratulations + Ksh 1000 FREE” + repeated messages + link to http://paristake.com/signup. Phishing tactic to collect personal data + gambling addiction bait.  
 Reflection Note: Spam often repeats messages to pressure you. Real betting companies don’t spam “you won” before you register.  
@@ -67,7 +67,7 @@ ChezaGameSP SMS - Free Bonus
 Subject: Free Bonus confirmed  
 Sender: ChezaGameSP  
 Date: Sat, 16 May at 17:37  
-Screenshot Link: ChezaGameSP.png  
+Screenshot Link:  ![Spam 6](IMG_2687.jpeg)
 Severity Rating: Medium  
 Reason for Rating: Unsolicited “guaranteed bonus” + link to Chezagam http://e.com + casino mention. Likely spam/gambling promo harvesting numbers.  
 Reflection Note: I now check if I actually signed up before trusting “confirmed bonus” messages.  
@@ -78,7 +78,7 @@ ChezaGameKE SMS - Welcome Bonus
 Subject: CONGRATULATIONS! YOU HAVE RECEIVED 1,000KSH  
 Sender: ChezaGameKE  
 Date: Fri, 8 May / Sat, 9 May / Mon, 11 May  
-Screenshot Link: ChezaGameKE.png  
+Screenshot Link:  ![Spam 7](IMG_2688.jpeg)
 Severity Rating: High  
 Reason for Rating: Multiple messages claiming money received + asks to “Deposit any amount”. Classic advance-fee scam. Tries to make you deposit to “unlock” fake money.  
 Reflection Note: If I didn’t play, I can’t win. Never deposit to claim a “prize”.  
@@ -89,7 +89,7 @@ CREDFastLTD SMS - M-PESA Loan
 Subject: MPESA CONFIRMED  
 Sender: CREDFastLTD  
 Date: Sun, 3 May at 10:28  
-Screenshot Link: CREDFastLTD.png  
+Screenshot Link: ![Spam 8](IMG_2689.jpeg)
 Severity Rating: Critical  
 Reason for Rating: Fake M-PESA confirmation + offers Ksh 184,240 loan + asks to dial _329*44# + sends money to personal number 254706068218. Loan fraud + SIM swap risk.  
 Reflection Note: M-PESA never sends loan approvals via random SMS. I learned to verify loans only through official M-PESA app/menu.  
@@ -100,7 +100,7 @@ SportPesa. SMS - Mega Jackpot
 Subject: Shinda 117 million SportPesa Mega Jackpot  
 Sender: SportPesa.  
 Date: Sat, 28 Feb at 12:55  
-Screenshot Link: SportPesa.png  
+Screenshot Link:  ![Spam 9](IMG_2690.jpeg)
 Severity Rating: Low-Medium  
 Reason for Rating: Legit brand name but uses shortened link http://spp.ke/Jackpotb + urges “SMS D#99”. Could be real promo or spoofed. Short links hide destination.  
 Reflection Note: Even known brands can be spoofed. I’ll avoid short links and go directly to http://sportpesa.com instead.  
@@ -111,7 +111,7 @@ TUSHINDE SMS - Deposit Request
 Subject: Sasa BEVAN, deposit ya KSh 24  
 Sender: TUSHINDE  
 Date: Tue, 24 Mar at 16:42  
-Screenshot Link: TUSHINDE.png  
+Screenshot Link:![Spam 10](IMG_2690.jpeg)
 Severity Rating: Medium  
 Reason for Rating: Addresses you by name + asks for KSh 24 deposit + reference code + link. Personalized = likely data leak. Small amount is a “test” to see if you’ll pay.  
 Reflection Note: Personalization doesn’t mean it’s legit. If I didn’t expect it, I won’t deposit.  
