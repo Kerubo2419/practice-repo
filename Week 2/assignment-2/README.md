@@ -45,7 +45,7 @@ This email asks me to activate an account, but I do not recall signing up for th
 Subject: Nunua airtime ya AIRTEL bila malipo  
 Sender: Mawingu_Ltd  
 Date: Thu, 11 Jun at 14:02  
-Screenshot Link: Mawingu.png  
+Screenshot Link: IMG_2685.jpeg
 Severity Rating: Medium  
 Reason for Rating: Promises “free airtime” + uses USSD code _264# + suspicious helpline 0703012777. Legit telcos don’t give free airtime via random USSD. Risk of SIM-swap or charges.  
 Reflection Note: I learned to be suspicious of “free” offers via SMS. Always confirm USSD codes with official telco channels.  
