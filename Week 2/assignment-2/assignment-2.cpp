@@ -3,7 +3,7 @@
 - **Subject:** Hurry — 50% off ends soon!  
 - **Sender:** Flo  
 - **Date Received:** 31 May 2026  
-- **Screenshot:** Screenshots/spam1.png  
+- **Screenshot:**  ![Spam 1](IMG_2664.jpeg)
 
 - **Severity:** Moderate Risk  
 
@@ -17,7 +17,7 @@ Although this email may be from a legitimate service, it still uses marketing pr
 - **Subject:** Don’t forget to claim your discount!  
 - **Sender:** Flo  
 - **Date Received:** 30 May 2026  
-- **Screenshot:** Screenshots/spam2.png  
+- **Screenshot:**   ![Spam 1](IMG_2664.jpeg)
 
 - **Severity:** Moderate Risk  
 
