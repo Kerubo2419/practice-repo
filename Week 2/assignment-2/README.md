@@ -3,7 +3,7 @@
 - **Subject:** Hurry — 50% off ends soon!  
 - **Sender:** Flo  
 - **Date Received:** 31 May 2026  
-- **Screenshot:**  ![Spam 1](IMG_2664.jpeg)
+- **Screenshot:**  ![Spam 1](IMG_2665.jpeg)
 
 - **Severity:** Moderate Risk  
 
@@ -17,7 +17,7 @@ Although this email may be from a legitimate service, it still uses marketing pr
 - **Subject:** Don’t forget to claim your discount!  
 - **Sender:** Flo  
 - **Date Received:** 30 May 2026  
-- **Screenshot:**   ![Spam 2](IMG_2664.jpeg)
+- **Screenshot:**   ![Spam 2](IMG_2665.jpeg)
 
 - **Severity:** Moderate Risk  
 
@@ -31,7 +31,7 @@ This email is not clearly malicious but still represents a potential risk becaus
 - **Subject:** Activate your account at Triaba Kenya  
 - **Sender:** Triaba Kenya  
 - **Date Received:** 12 May 2025  
-- **Screenshot:**   ![Spam 3](IMG_2665.jpeg)
+- **Screenshot:**   ![Spam 3](IMG_2664.jpeg)
 
 - **Severity:** Moderate Risk  
 
