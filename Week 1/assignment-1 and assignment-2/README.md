@@ -5,8 +5,7 @@
 Epochs: 50  
 Batch Size: 16  
 The model performed fairly well but sometimes made incorrect predictions.
-screenshot:https://github.com/Kerubo2419/practice-repo/blob/main/Week%201/assignment-1%20and%20assignment-2/572e8279-3d58-4a3b-8868-90e33b115ff1.jpeg
-
+screenshot:Week 1/assignment-1 and assignment-2/572e8279-3d58-4a3b-8868-90e33b115ff1.jpeg
 ## Model 2
 Epochs: 100  
 Batch Size: 16  
