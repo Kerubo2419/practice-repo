@@ -100,7 +100,7 @@ SportPesa. SMS - Mega Jackpot
 Subject: Shinda 117 million SportPesa Mega Jackpot  
 Sender: SportPesa.  
 Date: Sat, 28 Feb at 12:55  
-Screenshot Link:  ![Spam 9](IMG_2690.jpeg)
+Screenshot Link:  ![Spam 9](IMG_2690.png)
 Severity Rating: Low-Medium  
 Reason for Rating: Legit brand name but uses shortened link http://spp.ke/Jackpotb + urges “SMS D#99”. Could be real promo or spoofed. Short links hide destination.  
 Reflection Note: Even known brands can be spoofed. I’ll avoid short links and go directly to http://sportpesa.com instead.  
@@ -111,7 +111,7 @@ TUSHINDE SMS - Deposit Request
 Subject: Sasa BEVAN, deposit ya KSh 24  
 Sender: TUSHINDE  
 Date: Tue, 24 Mar at 16:42  
-Screenshot Link:![Spam 10](IMG_2690.jpeg)
+Screenshot Link:![Spam 10](IMG_2691.jpeg)
 Severity Rating: Medium  
 Reason for Rating: Addresses you by name + asks for KSh 24 deposit + reference code + link. Personalized = likely data leak. Small amount is a “test” to see if you’ll pay.  
 Reflection Note: Personalization doesn’t mean it’s legit. If I didn’t expect it, I won’t deposit.  
